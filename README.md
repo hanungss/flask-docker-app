@@ -1,6 +1,11 @@
 
 # Flask Docker App
 
+[![Docker](https://img.shields.io/badge/Docker-ready-blue)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 Proyek ini adalah contoh sederhana aplikasi web menggunakan Flask (Python) yang dijalankan di dalam container Docker. Aplikasi ini menampilkan halaman HTML dengan CSS dan gambar statis.
 
 ---
@@ -77,8 +82,3 @@ Proyek ini bebas digunakan untuk belajar atau keperluan pribadi.
 
 Pull request dipersilakan. Untuk perubahan besar, mohon buka issue terlebih dahulu.
 
-# Flask Docker App
-
-[![Docker](https://img.shields.io/badge/Docker-ready-blue)](https://www.docker.com/)
-[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
