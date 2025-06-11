@@ -76,3 +76,9 @@ Proyek ini bebas digunakan untuk belajar atau keperluan pribadi.
 ## 🤝 Kontribusi
 
 Pull request dipersilakan. Untuk perubahan besar, mohon buka issue terlebih dahulu.
+
+# Flask Docker App
+
+[![Docker](https://img.shields.io/badge/Docker-ready-blue)](https://www.docker.com/)
+[![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
